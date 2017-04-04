@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><layout title="" view="view">
+  <ButtonGroup name="buttonGroup"/>
+  <ButtonGroup name="btnGroupStandard"/>
+  <ButtonGroup name="btnGroupModel"/>
+  <ButtonGroup name="btnGroupContainers"/>
+  <PopupMenu cursor="0" name="popupMenu"/>
+  <MenuItem cursor="0" focusable="true" horizontalTextPosition="4" name="menuItem" parent="popupMenu" prefHeight="0px" prefWidth="0px" text="menuItem2"/>
+  <MenuItem cursor="0" focusable="true" horizontalTextPosition="4" name="menuItem1" parent="popupMenu" prefHeight="0px" prefWidth="0px" text="menuItem1"/>
+  <AnchorsPane cursor="0" name="view" prefHeight="265px" prefWidth="635px"/>
+  <Label cursor="0" name="label" parent="view" prefHeight="180px" prefWidth="590px" text="This is first view of skeleton project">
+    <font family="Arial" size="36" style="0"/>
+    <AnchorsPaneConstraints bottom="45px" left="20px" right="25px" top="40px"/>
+  </Label>
+</layout>
